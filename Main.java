@@ -7,6 +7,7 @@ public class Main {
         stringList.add("vikash");
         stringList.add("rahul");
         stringList.add("priyanka");
+        stringList.add("chuha");
 
         for (String name:stringList
              ) {
